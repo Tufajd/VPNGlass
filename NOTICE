@@ -1,0 +1,15 @@
+VPNGlass
+Copyright [Year] [Your Name or Nickname]
+
+This product includes software developed as part of the VPNGlass project.
+In accordance with the license terms, any derivative works (forks) must include a visible attribution notice: "Made with VPNGlass".
+
+========================================================================
+Third-Party Components and Technologies
+========================================================================
+This project is built using the following core technologies:
+
+1. WireGuard (https://www.wireguard.com/)
+   Used as the core engine for VPN tunneling.
+   Copyright © 2015-2026 Jason A. Donenfeld. All Rights Reserved.
+   "WireGuard" is a registered trademark of Jason A. Donenfeld.
